@@ -1,4 +1,4 @@
-# Machine Learning and Statistics Assessment Repository
+# Simulation exercise
 
 1. [Overview](#overview)
 1. [Repository Contents](#repository-contents)
