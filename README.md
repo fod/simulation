@@ -19,7 +19,7 @@ The rest of the contents of the repository support that notebook. They are:
 - README.md; this file
 - [requirements.txt](requirements.txt); a list of Python packages required to run the notebook
 - .gitignore; a git support file which may be safely ignored
-- [data/](data/); a directory containing the source data for thsi project, as well as the data key and licence. 
+- [data/](data/); a directory containing the source data for this project, as well as the data key and licence. 
 
 ## Requirements
 
