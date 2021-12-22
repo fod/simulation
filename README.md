@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains a [Jupyter](https://jupyter.org/) notebook and ancillary files demonstrating the simulation of one years worth of weather data using the Python programming language and various associated technologies in part fulfillment of requirements for the *Programming for Data Analysis* module of the HDipSc in Computing in Data Analytics at the Galway-Mayo Institute of Technology (GMIT).
+This repository contains a [Jupyter](https://jupyter.org/) notebook and ancillary files demonstrating the simulation of one year of weather data using the Python programming language and various associated technologies in part fulfillment of requirements for the *Programming for Data Analysis* module of the HDipSc in Computing in Data Analytics at the Galway-Mayo Institute of Technology (GMIT).
 
 ## Repository Contents
 
